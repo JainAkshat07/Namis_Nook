@@ -1,4 +1,4 @@
-import about from "../assets/products/about.svg";
+import about from "../assets/products/maker.png";
 
 export default function About() {
   return (
