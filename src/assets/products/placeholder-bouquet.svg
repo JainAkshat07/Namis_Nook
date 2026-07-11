@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Crochet flower bouquet placeholder">
+  <rect width="400" height="400" fill="#eaf2e6"/>
+  <!-- stems -->
+  <g stroke="#a9c4a2" stroke-width="6" fill="none">
+    <path d="M200 360C180 300 160 240 150 150"/>
+    <path d="M200 360C200 300 200 230 200 130"/>
+    <path d="M200 360C220 300 240 240 250 150"/>
+  </g>
+  <!-- flowers -->
+  <g transform="translate(150 140)">
+    <g fill="#f6d8d2" stroke="#e08a97" stroke-width="4">
+      <circle cx="0" cy="-22" r="17"/><circle cx="21" cy="-7" r="17"/>
+      <circle cx="13" cy="18" r="17"/><circle cx="-13" cy="18" r="17"/>
+      <circle cx="-21" cy="-7" r="17"/>
+    </g>
+    <circle cx="0" cy="0" r="14" fill="#c96b7a"/>
+  </g>
+  <g transform="translate(200 120)">
+    <g fill="#e08a97" stroke="#c96b7a" stroke-width="4">
+      <circle cx="0" cy="-22" r="17"/><circle cx="21" cy="-7" r="17"/>
+      <circle cx="13" cy="18" r="17"/><circle cx="-13" cy="18" r="17"/>
+      <circle cx="-21" cy="-7" r="17"/>
+    </g>
+    <circle cx="0" cy="0" r="14" fill="#fdf6f0"/>
+  </g>
+  <g transform="translate(250 140)">
+    <g fill="#f0c419" stroke="#d9a900" stroke-width="4">
+      <circle cx="0" cy="-22" r="17"/><circle cx="21" cy="-7" r="17"/>
+      <circle cx="13" cy="18" r="17"/><circle cx="-13" cy="18" r="17"/>
+      <circle cx="-21" cy="-7" r="17"/>
+    </g>
+    <circle cx="0" cy="0" r="14" fill="#6b4c57"/>
+  </g>
+  <!-- wrap -->
+  <path d="M150 300l50 60 50-60-50 20z" fill="#f6d8d2" stroke="#e08a97" stroke-width="3"/>
+  <text x="200" y="392" text-anchor="middle" font-family="Poppins, sans-serif" font-size="20" fill="#6b4c57">Bouquet photo</text>
+</svg>

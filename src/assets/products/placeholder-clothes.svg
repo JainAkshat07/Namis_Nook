@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Crochet clothes placeholder">
+  <rect width="400" height="400" fill="#eef0f6"/>
+  <!-- sweater -->
+  <path d="M140 110l-70 40 30 60 30-16v120h140V194l30 16 30-60-70-40c-15 18-35 26-50 26s-35-8-50-26z"
+        fill="#e08a97" stroke="#c96b7a" stroke-width="4" stroke-linejoin="round"/>
+  <!-- neckline -->
+  <path d="M150 110c14 20 36 26 50 26s36-6 50-26" fill="#f6d8d2" stroke="#c96b7a" stroke-width="4"/>
+  <!-- knit texture -->
+  <g stroke="#c96b7a" stroke-width="2" opacity="0.5">
+    <path d="M130 200v100M160 210v98M200 200v110M240 210v98M270 200v100"/>
+  </g>
+  <text x="200" y="372" text-anchor="middle" font-family="Poppins, sans-serif" font-size="20" fill="#6b4c57">Clothing photo</text>
+</svg>

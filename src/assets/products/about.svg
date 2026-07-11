@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 320" width="360" height="320" role="img" aria-label="Basket of yarn illustration">
+  <rect width="360" height="320" rx="24" fill="#f6d8d2"/>
+  <!-- basket -->
+  <path d="M70 180h220l-18 110H88z" fill="#c9a27a"/>
+  <g stroke="#a9825f" stroke-width="3" opacity="0.6">
+    <path d="M96 200h168M92 230h176M88 260h184"/>
+  </g>
+  <path d="M70 180c0-16 220-16 220 0z" fill="#b98f66"/>
+  <!-- yarn balls -->
+  <circle cx="120" cy="150" r="38" fill="#e08a97"/>
+  <circle cx="200" cy="140" r="34" fill="#a9c4a2"/>
+  <circle cx="255" cy="160" r="30" fill="#6b4c57"/>
+  <g stroke="#ffffff" stroke-width="2" fill="none" opacity="0.5">
+    <path d="M90 150c30-16 60-16 60 0M92 165c28-12 58-12 56 6"/>
+    <path d="M172 138c26-12 52-8 56 4"/>
+  </g>
+</svg>

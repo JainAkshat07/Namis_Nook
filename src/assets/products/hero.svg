@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img" aria-label="Crochet flowers illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdf6f0"/>
+      <stop offset="1" stop-color="#f6d8d2"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" rx="24" fill="url(#bg)"/>
+  <!-- yarn ball -->
+  <circle cx="120" cy="200" r="55" fill="#e08a97"/>
+  <g stroke="#c96b7a" stroke-width="2" fill="none" opacity="0.7">
+    <path d="M75 190c30-20 60-20 90 0"/>
+    <path d="M70 205c35-15 75-15 100 5"/>
+    <path d="M80 220c25-12 55-8 78 8"/>
+  </g>
+  <!-- crochet hook -->
+  <rect x="150" y="120" width="8" height="90" rx="4" fill="#a9c4a2" transform="rotate(25 154 165)"/>
+  <!-- flowers -->
+  <g transform="translate(270 120)">
+    <g fill="#f6d8d2" stroke="#e08a97" stroke-width="3">
+      <circle cx="0" cy="-18" r="14"/><circle cx="17" cy="-6" r="14"/>
+      <circle cx="11" cy="14" r="14"/><circle cx="-11" cy="14" r="14"/>
+      <circle cx="-17" cy="-6" r="14"/>
+    </g>
+    <circle cx="0" cy="0" r="12" fill="#c96b7a"/>
+  </g>
+  <g transform="translate(320 190)">
+    <g fill="#a9c4a2" stroke="#8fae87" stroke-width="3">
+      <circle cx="0" cy="-14" r="11"/><circle cx="13" cy="-4" r="11"/>
+      <circle cx="8" cy="12" r="11"/><circle cx="-8" cy="12" r="11"/>
+      <circle cx="-13" cy="-4" r="11"/>
+    </g>
+    <circle cx="0" cy="0" r="9" fill="#6b4c57"/>
+  </g>
+  <rect x="285" y="150" width="4" height="70" fill="#a9c4a2"/>
+  <rect x="325" y="205" width="4" height="55" fill="#a9c4a2"/>
+</svg>

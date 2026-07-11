@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Crochet keychain placeholder">
+  <rect width="400" height="400" fill="#f6d8d2"/>
+  <!-- ring -->
+  <circle cx="200" cy="90" r="26" fill="none" stroke="#b0b0b0" stroke-width="8"/>
+  <line x1="200" y1="116" x2="200" y2="150" stroke="#c96b7a" stroke-width="6"/>
+  <!-- heart charm -->
+  <path d="M200 320c-70-46-104-92-104-138 0-32 24-54 52-54 22 0 40 14 52 34 12-20 30-34 52-34 28 0 52 22 52 54 0 46-34 92-104 138z" fill="#e08a97"/>
+  <path d="M200 320c-70-46-104-92-104-138 0-32 24-54 52-54 22 0 40 14 52 34 12-20 30-34 52-34 28 0 52 22 52 54 0 46-34 92-104 138z" fill="none" stroke="#c96b7a" stroke-width="4" stroke-dasharray="6 6" opacity="0.6"/>
+  <text x="200" y="378" text-anchor="middle" font-family="Poppins, sans-serif" font-size="20" fill="#6b4c57">Keychain photo</text>
+</svg>

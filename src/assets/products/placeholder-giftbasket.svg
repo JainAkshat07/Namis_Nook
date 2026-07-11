@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Crochet gift basket placeholder">
+  <rect width="400" height="400" fill="#fdeede"/>
+  <!-- basket -->
+  <path d="M90 200h220l-16 150H106z" fill="#c9a27a"/>
+  <g stroke="#a9825f" stroke-width="3" opacity="0.6">
+    <path d="M112 225h176M108 260h184M104 300h192"/>
+  </g>
+  <path d="M90 200c0-14 220-14 220 0z" fill="#b98f66"/>
+  <!-- handle -->
+  <path d="M120 200c0-90 160-90 160 0" fill="none" stroke="#b98f66" stroke-width="12"/>
+  <!-- goodies -->
+  <circle cx="150" cy="180" r="26" fill="#e08a97"/>
+  <circle cx="205" cy="172" r="24" fill="#a9c4a2"/>
+  <circle cx="255" cy="182" r="22" fill="#f0c419"/>
+  <text x="200" y="382" text-anchor="middle" font-family="Poppins, sans-serif" font-size="20" fill="#6b4c57">Gift basket photo</text>
+</svg>
