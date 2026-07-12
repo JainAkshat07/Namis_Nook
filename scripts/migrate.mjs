@@ -54,7 +54,7 @@ const categories = [
   { slug: "hairbands", title: "Hairbands", order: 4 },
   { slug: "gift-baskets", title: "Gift Baskets", order: 5 },
   { slug: "home-decor", title: "Home Decor", order: 6 },
-  { slug: "clothes", title: "Clothes", order: 7 },
+  { slug: "Handbags", title: "Handbags", order: 7 },
 ];
 
 // Placeholder image per category (real photos are uploaded later via the Studio).
@@ -65,7 +65,7 @@ const imageForCategory = {
   hairbands: "placeholder-hairband.svg",
   "gift-baskets": "placeholder-giftbasket.svg",
   "home-decor": "placeholder-homedecor.svg",
-  clothes: "placeholder-clothes.svg",
+  Handbags: "placeholder-clothes.svg",
 };
 
 const products = [
@@ -84,8 +84,8 @@ const products = [
   { name: "New Baby Gift Basket", category: "gift-baskets", price: 1999, description: "A sweet welcome set with a cuddly toy, booties and a soft rattle.", size: "Basket approx. 24 cm wide", materials: "Soft baby-safe acrylic wool, woven basket", colours: "Pastel neutrals or themed", care: "Surface wash items; air dry.", madeToOrder: "10–14 days" },
   { name: "Round Table Doily", category: "home-decor", price: 399, description: "A delicate crochet doily to dress up any table or shelf.", size: "Approx. 28 cm diameter", materials: "Cotton-blend crochet thread", colours: "White, cream, or pastel", care: "Hand wash cold; press flat to dry.", madeToOrder: "5–7 days" },
   { name: "Hanging Wall Mandala", category: "home-decor", price: 799, description: "A colourful crochet mandala wall hanging to brighten any room.", size: "Approx. 30 cm diameter", materials: "Acrylic wool, wooden ring", colours: "Custom colour palette", care: "Dust gently; keep away from moisture.", madeToOrder: "7–10 days", isNew: true },
-  { name: "Baby Booties", category: "clothes", price: 349, description: "Soft, warm crochet booties to keep tiny toes cosy.", size: "0–6 months (other sizes on request)", materials: "Soft baby-safe acrylic wool", colours: "Any colour on request", care: "Hand wash cold; reshape and air dry.", madeToOrder: "4–6 days" },
-  { name: "Baby Beanie", category: "clothes", price: 399, description: "An adorable crochet beanie with a cosy snug fit.", size: "0–12 months (other sizes on request)", materials: "Soft baby-safe acrylic wool", colours: "Any colour on request", care: "Hand wash cold; reshape and air dry.", madeToOrder: "4–6 days", isNew: true },
+  { name: "Baby Booties", category: "Handbags", price: 349, description: "Soft, warm crochet booties to keep tiny toes cosy.", size: "0–6 months (other sizes on request)", materials: "Soft baby-safe acrylic wool", colours: "Any colour on request", care: "Hand wash cold; reshape and air dry.", madeToOrder: "4–6 days" },
+  { name: "Baby Beanie", category: "Handbags", price: 399, description: "An adorable crochet beanie with a cosy snug fit.", size: "0–12 months (other sizes on request)", materials: "Soft baby-safe acrylic wool", colours: "Any colour on request", care: "Hand wash cold; reshape and air dry.", madeToOrder: "4–6 days", isNew: true },
 ];
 
 function slugify(name) {
