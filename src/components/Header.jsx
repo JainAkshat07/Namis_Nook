@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logo from "../assets/products/nami_logo.jpg";
+import logo from "../assets/products/ninus_logo.png";
 import { site } from "../data/site";
 import { useCart } from "../context/cart-core";
 

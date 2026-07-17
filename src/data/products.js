@@ -7,7 +7,7 @@ import bouquet from "../assets/products/placeholder-bouquet.svg";
 import hairband from "../assets/products/placeholder-hairband.svg";
 import giftbasket from "../assets/products/placeholder-giftbasket.svg";
 import homedecor from "../assets/products/placeholder-homedecor.svg";
-import clothes from "../assets/products/placeholder-clothes.svg";
+import handbag from "../assets/products/placeholder-clothes.svg";
 
 // "new" is a virtual category: it shows every product marked isNew.
 export const categories = [
@@ -19,7 +19,7 @@ export const categories = [
   { id: "hairbands", label: "Hairbands" },
   { id: "gift-baskets", label: "Gift Baskets" },
   { id: "home-decor", label: "Home Decor" },
-  { id: "clothes", label: "Clothes" },
+  { id: "Handbags", label: "Handbags" },
 ];
 
 export const products = [
@@ -224,9 +224,9 @@ export const products = [
   {
     id: 16,
     name: "Baby Booties",
-    category: "clothes",
+    category: "Handbags",
     price: "₹349",
-    image: clothes,
+    image: handbag,
     description: "Soft, warm crochet booties to keep tiny toes cosy.",
     size: "0–6 months (other sizes on request)",
     materials: "Soft baby-safe acrylic wool",
@@ -237,9 +237,9 @@ export const products = [
   {
     id: 17,
     name: "Baby Beanie",
-    category: "clothes",
+    category: "Handbags",
     price: "₹399",
-    image: clothes,
+    image: handbag,
     description: "An adorable crochet beanie with a cosy snug fit.",
     size: "0–12 months (other sizes on request)",
     materials: "Soft baby-safe acrylic wool",

@@ -26,7 +26,12 @@ export default function CartDrawer() {
     );
     const text =
       `Hi! I'd like to order:\n${lines.join("\n")}\n\n` +
-      `Total: ${site.currency}${total}\n\nMy name is: ______`;
+      `Total: ${site.currency}${total}\n\n` +
+      `Please note:\n` +
+      `• Delivery charges will be added based on the delivery location.\n` +
+      `• As each item is handmade, slight variations in appearance may occur. The final product may differ slightly from the photos.\n\n` +
+      `My name is: ______`;
+
     window.open(
       `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(text)}`,
       "_blank",
